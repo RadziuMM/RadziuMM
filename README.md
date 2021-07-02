@@ -1,14 +1,20 @@
-:wave: Hi, I'm Radek and I'm a computer wizard :fireworks:
+# Hi, I'm Radek and I'm a computer wizard :fireworks:
 
-You can find some of my skills here and in my portfolio:
+## About Me
+ 
+Most of the time I code in .js or .ts ,but I also know python, c++, php and some java.
+
+Also, I'm a database hound ... SQL, noSQL, graphQL etc.
+
+I play around with Linux a lot(I use Arch btw.), you should be able to find my configuration here.
+
+I can also do penetration testing, but I find it tedious, so I'm not likely to become a hacker.
+
+### Currently working as a full stack developer in Keysune corporation.
+
+### You can find some of my skills here and in my portfolio:
 - https://rmazurczak.herokuapp.com/
 
-If you want to write to me you can find me here:
+### If you want to write to me you can find me here:
 - RMazurczak@protonmail.com  :mailbox_with_mail:
 - https://t.me/Radziu :speech_balloon:
-
-
-<!---
-RadziuMM/RadziuMM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
