@@ -10,7 +10,7 @@ I play around with Linux a lot(I use Arch btw.), you should be able to find my c
 
 I can also do penetration testing, but I find it tedious, so I'm not likely to become a hacker.
 
-### Currently working as a full stack developer in Keysune corporation.
+### Currently working as a full stack developer in Kysune corporation.
 
 ### You can find some of my skills here and in my portfolio:
 - https://rmazurczak.herokuapp.com/
