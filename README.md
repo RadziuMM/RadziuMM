@@ -13,7 +13,7 @@ I can also do penetration testing, but I find it tedious, so I'm not likely to b
 ### Currently working as a full stack developer in Kysune corporation.
 
 ### You can find some of my skills here and in my portfolio:
-- https://rmazurczak.herokuapp.com/
+- https://radziu.dev/
 
 ### If you want to write to me you can find me here:
 - RMazurczak@protonmail.com  :mailbox_with_mail:
