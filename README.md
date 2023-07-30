@@ -1,6 +1,6 @@
 # Hi, I'm Radek and I'm a computer wizard :fireworks:
 
-## New projects/Actuall repo
+## New projects/Current repo
 
  - https://gitlab.com/radziuDev
 
