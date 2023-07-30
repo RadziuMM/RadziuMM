@@ -1,5 +1,9 @@
 # Hi, I'm Radek and I'm a computer wizard :fireworks:
 
+## New projects/Actuall repo
+
+ - https://gitlab.com/radziuDev
+
 ## About Me
  
 Most of the time I code in .js or .ts ,but I also know python, c++, php and some java.
